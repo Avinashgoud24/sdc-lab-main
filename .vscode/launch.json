@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Registrationform.html",
+            "file": "c:\\Users\\ABHI\\Downloads\\SDC_523-main\\SDC_523-main\\Experiment-03_Shopping-cart-app_validation\\Shopping-cart 1,2\\public\\html\\Registrationform.html"
+        }
+    ]
+}
