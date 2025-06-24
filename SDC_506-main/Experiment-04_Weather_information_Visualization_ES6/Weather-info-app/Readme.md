@@ -44,7 +44,8 @@ Dependencies
 
 License
 This project is licensed under the MIT License.
-Developed by
- K.Subhash Chandra
+Developed By
+B Avinash Goud
+
 •GitHub: Your GitHub Profile
 Feel free to contribute or suggest improvements!
