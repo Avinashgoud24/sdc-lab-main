@@ -106,8 +106,8 @@ SAMPLE OUTPUT
 LICENSE
 This project is open-source and available under the MIT License
 
-Author
-•tarunteja
+Developed by
+•B.Avinash Goud
 
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
