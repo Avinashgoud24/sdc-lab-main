@@ -54,6 +54,9 @@ npm start
 Open your browser and go to:
 http://localhost:3000
 
+Developed By
+B Avinash Goud
+
 
 LICENSE
 This project is licensed under the MIT License.
